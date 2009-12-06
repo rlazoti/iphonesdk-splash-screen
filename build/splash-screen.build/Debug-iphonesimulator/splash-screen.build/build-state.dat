@@ -1,0 +1,275 @@
+Tsplash-screen
+v7
+r0
+t281822612.465582
+cCheck dependencies
+cProcessInfoPlistFile /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/Info.plist splash_screen-Info.plist
+cCompileXIB /Users/rodrigolazoti/Desktop/splash-screen/MainWindow.xib
+cCompileXIB /Users/rodrigolazoti/Desktop/splash-screen/splash_screenViewController.xib
+cCpResource build/Debug-iphonesimulator/splash-screen.app/Default.png Default.png
+cProcessPCH /var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch.gch splash_screen_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/main.o /Users/rodrigolazoti/Desktop/splash-screen/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenAppDelegate.o /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenViewController.o /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen normal i386
+cGenerateDSYMFile /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app.dSYM /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen
+cTouch /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AE19DE600000000000000EE
+t1256300006
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.h
+c000000004B179A6E0000000000000202
+t1259838062
+s514
+i<UIKit/UIKit.h>
+
+N/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m
+c000000004B179ECE00000000000002A8
+t1259839182
+s680
+i"splash_screenAppDelegate.h"
+i"splash_screenViewController.h"
+
+N/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.h
+c000000004B1C07E0000000000000014C
+t1260128224
+s332
+i<UIKit/UIKit.h>
+
+N/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.m
+c000000004B1C0A240000000000000765
+t1260128804
+s1893
+i"splash_screenViewController.h"
+
+N/Users/rodrigolazoti/Desktop/splash-screen/Default.png
+c000000004B179BCD000000000005E1B5
+t1259838413
+s385461
+
+N/Users/rodrigolazoti/Desktop/splash-screen/MainWindow.xib
+c000000004B179A6E0000000000002490
+t1259838062
+s9360
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app
+t1260129161
+s272
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app.dSYM
+t1260128805
+s102
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/Default.png
+t1259838419
+s385461
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/Info.plist
+t1259838364
+s588
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/MainWindow.nib
+t1259838364
+s1507
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/PkgInfo
+t1259838364
+s8
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen
+t1260128805
+s19888
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash_screenViewController.nib
+t1260129161
+s1619
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/main.o
+t1259838366
+s5964
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash-screen.LinkFileList
+c000000004B179B9C00000000000001C9
+t1259838364
+s457
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenAppDelegate.o
+t1260128740
+s38356
+
+N/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenViewController.o
+t1260128805
+s31680
+
+N/Users/rodrigolazoti/Desktop/splash-screen/main.m
+c000000004B179A6E000000000000016E
+t1259838062
+s366
+i<UIKit/UIKit.h>
+
+N/Users/rodrigolazoti/Desktop/splash-screen/splash_screenViewController.xib
+c000000004B1C0B7A00000000000045DB
+t1260129146
+s17883
+
+N/Users/rodrigolazoti/Desktop/splash-screen/splash_screen_Prefix.pch
+c000000004B179A6E00000000000000C3
+t1259838062
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch.gch
+t1259838365
+s13034960
+
+Nsplash_screen-Info.plist
+c000000004B179A6E000000000000038D
+t1259838062
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies281822612#281822612#0(0"0(0#1#0"28992373579448432#0"0#
+
+CCompileC build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/main.o /Users/rodrigolazoti/Desktop/splash-screen/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281531165.929479
+e281531166.082472
+r1
+xCompileC
+xbuild/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/main.o
+x/Users/rodrigolazoti/Desktop/splash-screen/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/rodrigolazoti/Desktop/splash-screen/main.m281531165#281531166#0(0"0(0#0#49"/Users/rodrigolazoti/Desktop/splash-screen/main.m4300885448#2023"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-generated-files.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-own-target-headers.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-all-target-headers.hmap -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-project-headers.hmap -F/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator -I/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/include -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources/i386 -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources -include /var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch -c /Users/rodrigolazoti/Desktop/splash-screen/main.m -o /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/main.o0#
+
+CCompileC build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenAppDelegate.o /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281821539.975609
+e281821540.150118
+r1
+xCompileC
+xbuild/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenAppDelegate.o
+x/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m281821539#281821540#0(0"0(0#0#77"/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m4300885448#2071"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-generated-files.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-own-target-headers.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-all-target-headers.hmap -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-project-headers.hmap -F/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator -I/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/include -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources/i386 -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources -include /var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch -c /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m -o /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenAppDelegate.o0#
+
+CCompileC build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenViewController.o /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281821604.910750
+e281821605.033564
+r1
+xCompileC
+xbuild/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenViewController.o
+x/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.m281821604#281821605#0(0"0(0#0#80"/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.m4300885448#2077"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-generated-files.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-own-target-headers.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-all-target-headers.hmap -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-project-headers.hmap -F/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator -I/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/include -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources/i386 -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources -include /var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch -c /Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenViewController.m -o /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash_screenViewController.o0#
+
+CCompileXIB /Users/rodrigolazoti/Desktop/splash-screen/MainWindow.xib
+s281531164.099912
+e281531164.571479
+r1
+xCompileXIB
+x/Users/rodrigolazoti/Desktop/splash-screen/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib281531164#281531164#0(0"0(0#0#57"/Users/rodrigolazoti/Desktop/splash-screen/MainWindow.xib4300885448#500"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/MainWindow.nib /Users/rodrigolazoti/Desktop/splash-screen/MainWindow.xib0#
+
+CCompileXIB /Users/rodrigolazoti/Desktop/splash-screen/splash_screenViewController.xib
+s281821959.930645
+e281821961.829007
+r1
+xCompileXIB
+x/Users/rodrigolazoti/Desktop/splash-screen/splash_screenViewController.xib
+lSLF07#2@42"CompileXIB splash_screenViewController.xib281821959#281821961#0(0"0(0#0#74"/Users/rodrigolazoti/Desktop/splash-screen/splash_screenViewController.xib4300885448#534"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash_screenViewController.nib /Users/rodrigolazoti/Desktop/splash-screen/splash_screenViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/splash-screen.app/Default.png Default.png
+s281531219.266246
+e281531219.286385
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/splash-screen.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png281531219#281531219#0(0"0(0#0#54"/Users/rodrigolazoti/Desktop/splash-screen/Default.png4300885448#473"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rodrigolazoti/Desktop/splash-screen/Default.png /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app0#
+
+CGenerateDSYMFile /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app.dSYM /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen
+s281821605.765263
+e281821605.902264
+r1
+xGenerateDSYMFile
+x/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app.dSYM
+x/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/splash-screen.app.dSYM build/Debug-iphonesimulator/splash-screen.app/splash-screen281821605#281821605#0(0"0(0#0#102"/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen4300885448#413"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen -o /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app.dSYM0#
+
+CLd /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen normal i386
+s281821605.033655
+e281821605.765108
+r1
+xLd
+x/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen
+xnormal
+xi386
+lSLF07#2@107"Link /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen281821605#281821605#0(0"0(0#0#0"4300885448#914"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator -F/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator -filelist /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/Objects-normal/i386/splash-screen.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/splash-screen0#
+
+CProcessInfoPlistFile /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/Info.plist splash_screen-Info.plist
+s281531164.095970
+e281531164.099832
+r1
+xProcessInfoPlistFile
+x/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/Info.plist
+xsplash_screen-Info.plist
+lSLF07#2@32"Process splash_screen-Info.plist281531164#281531164#0(0"0(0#0#67"/Users/rodrigolazoti/Desktop/splash-screen/splash_screen-Info.plist4300885448#509"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility splash_screen-Info.plist -genpkginfo /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app/Info.plist0#
+
+CProcessPCH /var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch.gch splash_screen_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s281531164.633998
+e281531165.929197
+r1
+xProcessPCH
+x/var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch.gch
+xsplash_screen_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile splash_screen_Prefix.pch281531164#281531165#0(0"0(0#0#67"/Users/rodrigolazoti/Desktop/splash-screen/splash_screen_Prefix.pch4300885448#1905"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-generated-files.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-own-target-headers.hmap -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-all-target-headers.hmap -iquote /Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/splash-screen-project-headers.hmap -F/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator -I/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/include -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources/i386 -I/Users/rodrigolazoti/Desktop/splash-screen/build/splash-screen.build/Debug-iphonesimulator/splash-screen.build/DerivedSources -c /Users/rodrigolazoti/Desktop/splash-screen/splash_screen_Prefix.pch -o /var/folders/2m/2mUxsQwkFSeFToEp+eJkhk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/splash_screen_Prefix-cqcoazblklpjwxenoitptkwaglil/splash_screen_Prefix.pch.gch0#
+
+CTouch /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app
+s281821961.829690
+e281821961.852469
+r1
+xTouch
+x/Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app
+lSLF07#2@94"Touch /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app281821961#281821961#0(0"0(0#0#0"4300885448#292"    cd /Users/rodrigolazoti/Desktop/splash-screen    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/rodrigolazoti/Desktop/splash-screen/build/Debug-iphonesimulator/splash-screen.app0#
+

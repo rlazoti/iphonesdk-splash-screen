@@ -1,0 +1,5 @@
+/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m: In function '-[splash_screenAppDelegate applicationDidFinishLaunching:]':
+/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m:23: warning: 'splash_screenViewController' may not respond to '-showSplash'
+/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m:23: warning: (Messages without a matching method signature
+/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m:23: warning: will be assumed to return 'id' and accept
+/Users/rodrigolazoti/Desktop/splash-screen/Classes/splash_screenAppDelegate.m:23: warning: '...' as arguments.)
